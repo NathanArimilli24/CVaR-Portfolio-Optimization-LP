@@ -1,0 +1,3 @@
+,cosine_similarity,L1_weight_distance,shared_top5
+minimax vs beta=0.99,0.9999406009983155,0.01089986902738122,5
+minimax vs beta=0.95,0.9334846329559879,0.6220904450673248,3

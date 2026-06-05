@@ -1,0 +1,10 @@
+# CVaR Portfolio Optimization — Python dependencies
+# Tested with Python 3.9+. The pip-shipped gurobipy license suffices for this problem size.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+gurobipy>=11.0
+
+# Optional — only needed to re-execute the notebook:
+# jupyter
+# nbconvert

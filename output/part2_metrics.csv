@@ -1,0 +1,5 @@
+,Optimized 2019 (in-sample),Optimized 2020 (out-of-sample),NDX 2019,NDX 2020
+Avg daily return,0.001227,0.00098,0.001311,0.001741
+Volatility (std),0.006753,0.019442,0.010331,0.022981
+VaR (loss) beta=0.95,0.0085,0.02525,0.015955,0.038977
+CVaR (loss) beta=0.95,0.01109,0.046568,0.024753,0.056499

@@ -1,0 +1,24 @@
+# Local-only portfolio bundle
+website/
+
+# Claude Code local settings
+.claude/
+
+# macOS / Windows / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Gurobi
+*.log
+gurobi.log

@@ -1,0 +1,11 @@
+,value
+Task 2 - In-sample CVaR (2019),0.011089668286016468
+Task 2 - Out-of-sample CVaR (2020),0.0465683761962471
+Task 2 - NDX CVaR (2020),0.0564989054009149
+Task 3 - Out-of-sample CVaR @ beta=0.99 (2020),0.09664521528873149
+"Task 4 - Worst-month CVaR (2019, train)",0.012446210015368308
+Task 4 - Out-of-sample daily CVaR (2020),0.047316630928525005
+Task 5 - Avg monthly CVaR (2020),0.03233400463685378
+Task 5 - Min monthly CVaR (2020),0.008139790818173454
+Task 5 - Max monthly CVaR (2020),0.10167235158585104
+Task 6 - Share of stable transitions,0.18181818181818182
